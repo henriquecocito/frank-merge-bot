@@ -9,7 +9,7 @@ const reviewers = ["rosie", "bender", "wall-e"]
 module.exports = app => {
 
   var time = `${moment().format("HH:mm:ss.SSS")}Z`
-  console.log(`${gray(time)}  ${green().bold("SUCCESS")} - ${underline().bold("Frank Merges")} was loaded!`)
+  console.log(`${gray(time)}  ${green().bold("SUCCESS")} - ${underline().bold("Frank Merger")} was loaded!`)
 
   app.on([
     'pull_request.opened', 

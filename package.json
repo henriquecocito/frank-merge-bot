@@ -6,8 +6,6 @@
   "author": "Henrique Cocito <henriquecocito@gmail.com>",
   "license": "ISC",
   "repository": "https://github.com/henriquecocito/mergebot.git",
-  "homepage": "https://github.com/henriquecocito/mergebot",
-  "bugs": "https://github.com/henriquecocito/mergebot/issues",
   "keywords": [
     "probot",
     "github",
